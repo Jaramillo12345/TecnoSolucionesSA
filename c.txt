@@ -1,1 +1,0 @@
-Ahora lo que quiero hacer es generar un reporte en pdf, osea que haya un boton que diga "Reporte" en la pagina de cargar Proyectos, y este boton mande a otra pagina para seleccionar la cantidad de Proyectos y en el PDF muestre el nombre del proyecto selecionado + sus datos del proyecto, y su tareas + sus datos.
